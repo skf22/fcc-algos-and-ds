@@ -1,7 +1,7 @@
 ## freeCodeCamp JavaScript Algorithms and Data Structures
 
-<br>
 This is a repository to keep track of my attempts at solutions for _freeCodeCamp's_ **Javascript Algorithms and Data Structures** certification.
+<br>
 
 I worked through and completed the certification in 2020, but have decided to go push this repo, primarily as a means of getting some practice (as I have inevitably forgotten quite a few problems) and reviewing my previous solutions, with a view to refactoring where possible.
 
@@ -18,8 +18,7 @@ It was quite challenging to work through some of these problems, so I'm pleased 
 <br>
 Below is an overview of the different sections of the certification, with links to the relevant folder. Obviously, these folders will be empty to begin with, and will gradually become populated as I work/re-work through the solutions.
 
-<br>
-<br>
+
 ### freeCodeCamp Algorithms & Data Structures Sections
 
 - [Basic JavaScript](https://github.com/skf22/fcc-algos-and-ds/tree/main/Basic%20Javascript)
