@@ -12,9 +12,9 @@ Anyone who is interested is more than welcome to submit more optimal solutions i
 It was quite challenging to work through some of these problems, so I'm pleased that I eventually managed to attain the certification:
 
 <br>
+
 ![My Certificate](https://github.com/skf22/fcc-algos-and-ds/blob/main/Certification/Javascript%20Algorithms%20and%20Data%20Structures%20Certification.png)
 
-<br>
 <br>
 Below is an overview of the different sections of the certification, with links to the relevant folder. Obviously, these folders will be empty to begin with, and will gradually become populated as I work/re-work through the solutions.
 
