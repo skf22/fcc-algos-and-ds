@@ -1,7 +1,6 @@
 ## freeCodeCamp JavaScript Algorithms and Data Structures
 
-
-This is a repository to keep track of my attempts at solutions for **freeCodeCamp's** **Javascript Algorithms and Data Structures** certification.
+This is a repository to keep track of my attempts at solutions for _freeCodeCamp's_ **Javascript Algorithms and Data Structures** certification.
 
 I worked through and completed the certification in 2020, but have decided to go push this repo, primarily as a means of getting some practice (as I have inevitably forgotten quite a few problems) and reviewing my previous solutions, with a view to refactoring where possible.
 
