@@ -1,4 +1,4 @@
-## **Comparison with the Inequality Operator**
+### **Comparison with the Inequality Operator**
 
 <br>
 
