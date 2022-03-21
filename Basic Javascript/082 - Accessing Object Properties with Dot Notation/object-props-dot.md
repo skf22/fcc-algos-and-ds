@@ -20,10 +20,6 @@ const prop2val = myObj.prop2;
 
 `prop1val` would have a value of the string `val1`, and `prop2val` would have a value of the string `val2`.
 
-<br>
-
 ---
-
-<br>
 
 Read in the property values of `testObj` using dot notation. Set the variable `hatValue` equal to the object's property `hat` and set the variable `shirtValue` equal to the object's property `shirt`.
