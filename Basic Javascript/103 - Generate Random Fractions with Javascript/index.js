@@ -1,0 +1,1 @@
+const randomFraction = () => Math.random();
