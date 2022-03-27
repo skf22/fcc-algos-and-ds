@@ -1,3 +1,0 @@
-const welcomeToBooleans = () => {
-  return true;
-};
