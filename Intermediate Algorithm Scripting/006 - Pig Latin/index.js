@@ -11,4 +11,4 @@ const translatePigLatin = (str) => {
   return `${str}${consonant}ay`;
 };
 
-translatePigLatin("california");
+console.log(translatePigLatin("california"));
